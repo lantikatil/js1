@@ -1,0 +1,22 @@
+.burst {
+    -webkit-filter: contrast(2); }
+
+.colorize {
+    -webkit-filter:
+            saturate(2.5)
+            sepia(0.25)
+            hue-rotate(-15deg); }
+
+.stylize {
+    -webkit-filter:
+            contrast(0.7)
+            brightness(2); }
+
+.shadow {
+    -webkit-filter: drop-shadow(10px 10px 5px gray) }
+
+.spoil {
+    -webkit-filter: hue-rotate(270deg);  }
+
+.invert {
+    -webkit-filter: invert(0.75);  }
